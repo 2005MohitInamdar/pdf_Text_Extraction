@@ -47,6 +47,7 @@ pip install -r requirements.txt
 Or manually install the required dependency:
 pip install pdfplumber
 
+
 🧰 Usage
 from extractor import extract_text_from_pdf
 

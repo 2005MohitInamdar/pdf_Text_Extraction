@@ -51,7 +51,9 @@ pip install pdfplumber
 from extractor import extract_text_from_pdf
 
 pdf_path = "E:/resumes/Ved Devanand Dhanokar Resume.pdf"
+
 text = extract_text_from_pdf(pdf_path)
+
 print(text)
 
 🪄 Function Overview
